@@ -8,7 +8,7 @@ public:
                 if (!(i % j)) {
                     // Greedy. Since paste most number of "A" is 
                     // most efficient. No need check other factors. 
-                    dp[i] = dp[i], dp[i / j] + j;
+                    dp[i] = dp[i / j] + j;
                     break;
                 }
             }
