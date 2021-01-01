@@ -6,9 +6,9 @@ public:
         for (int i = 2; i <= n; i++) {
             for (int j = 2; j <= i; j++) {
                 if (!(i % j)) {
-                    dp[i] = min(dp[i], dp[i / j] + j);
                     // Greedy. Since paste most number of "A" is 
                     // most efficient. No need check other factors. 
+                    dp[i] = dp[i], dp[i / j] + j;
                     break;
                 }
             }
