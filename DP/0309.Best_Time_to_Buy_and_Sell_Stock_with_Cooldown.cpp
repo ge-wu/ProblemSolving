@@ -2,8 +2,6 @@ class Solution {
 public:
     int maxProfit(vector<int>& p) {
       int n = p.size();
-      if (n < 2)
-        return 0;
       int hold = INT_MIN, sold = 0, cooled = 0;
       for (int i = 0; i < n; i++) {
         int h = hold, s = sold, c = cooled;
