@@ -1,7 +1,12 @@
 # LeetCode
 | Date          | Title                     | Topic | Difficulty| 
 | :--:          | :--                       | :---: | :---:     |
-| 2020-01-01    | 650. 2 Keys Keyboard      | DP    | Medium    |
-| 2020-01-02    | 198. House Robber         | DP    | Medium    |
-| 2020-01-03    | 213. House Robber II      | DP    | Medium    |
-| 2020-01-04    | 376. Wiggle Subsequence   | DP    | Medium    |
+| 2021-01-10    | 1105. Filling Bookcase Shelves                          | DP    | Medium    |
+| 2021-01-09    | 300. Longest Increasing Subsequence                     | DP    | Medium    |
+| 2021-01-07    | 123. Best Time to Buy and Sell Stock III                | DP    | Hard      |
+| 2021-01-06    | 309. Best Time to Buy and Sell Stock with Cooldown      | DP    | Medium    |
+| 2021-01-05    | 1186. Maximum Subarray Sum with One Deletion            | DP    | Medium    |
+| 2021-01-04    | 376. Wiggle Subsequence                                 | DP    | Medium    |
+| 2021-01-03    | 213. House Robber II                                    | DP    | Medium    |
+| 2021-01-02    | 198. House Robber                                       | DP    | Medium    |
+| 2021-01-01    | 650. 2 Keys Keyboard                                    | DP    | Medium    |
