@@ -2,8 +2,8 @@
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
 | 2021-01-16    | 514. Freedom Trail                                      | DP    |             | Hard      |
-| 2021-01-15    | 1388. Pizza With 3n Slices                              | DP    |             | Medium    |
-| 2021-01-14    | 322. Coin Change                                        | DP    | Knapsack    | Hard      |
+| 2021-01-15    | 1388. Pizza With 3n Slices                              | DP    |             | Hard      |
+| 2021-01-14    | 322. Coin Change                                        | DP    | Knapsack    | Medium    |
 | 2021-01-13    | 1626. Best Team With No Conflicts                       | DP    |             | Medium    |
 | 2021-01-12    | 673. Number of Longest Increasing Subsequence           | DP    |             | Medium    |
 | 2021-01-11    | 983. Minimum Cost For Tickets                           | DP    |             | Medium    |
