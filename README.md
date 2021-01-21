@@ -1,6 +1,11 @@
 # LeetCode
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
+| 2021-01-21    | 120.Triangle                                            | DP    |             | Medium     |
+| 2021-01-20    | 357. Count Numbers with Unique Digits                   | DP    |             | Medium      |
+| 2021-01-19    | 1262. Greatest Sum Divisible by Three                   | DP    |             | Medium      |
+| 2021-01-18    | 714. Best Time to Buy and Sell Stock with Transaction Fee | DP    |           | Medium      |
+| 2021-01-17    | 1419. Minimum Number of Frogs Croaking                  | DP    |             | Medium      |
 | 2021-01-16    | 514. Freedom Trail                                      | DP    |             | Hard      |
 | 2021-01-15    | 1388. Pizza With 3n Slices                              | DP    |             | Hard      |
 | 2021-01-14    | 322. Coin Change                                        | DP    | Knapsack    | Medium    |
