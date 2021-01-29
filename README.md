@@ -1,6 +1,14 @@
 # LeetCode
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
+| 2021-01-29    | 338. Counting Bits                                      | DP    |             | Medium     |
+| 2021-01-28    | 911. Online Election                                    | Binary Search    |             | Medium     |
+| 2021-01-27    | 875. Koko Eating Bananas                                | Binary Search    |             | Medium     |
+| 2021-01-26    | 740. Delete and Earn                                    | DP   |             | Medium     |
+| 2021-01-25    | 931. Minimum Falling Path Sum                           | DP   |             | Medium     |
+| 2021-01-24    | 62. Unique Paths                                        | DP   |             | Medium     |
+| 2021-01-23    | 343. Integer Break                                        | DP   |             | Medium     |
+| 2021-01-22    | 1027. Longest Arithmetic Subsequence                                        | DP   |             | Medium     |
 | 2021-01-21    | 120.Triangle                                            | DP    |             | Medium     |
 | 2021-01-20    | 357. Count Numbers with Unique Digits                   | DP    |             | Medium      |
 | 2021-01-19    | 1262. Greatest Sum Divisible by Three                   | DP    |             | Medium      |
