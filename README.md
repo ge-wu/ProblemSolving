@@ -1,7 +1,7 @@
 # LeetCode
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
-| 2021-02-04   | 1161. Maximum Level Sum of a Binary Tree                                     | BFS    |             | Medium     |
+| 2021-02-04   | 1161. Maximum Level Sum of a Binary Tree <br /> 994. Rotting Oranges | BFS    |             | Medium     |
 | 2021-02-03    | 63. Unique Paths II                                     | DP    |             | Medium     |
 | 2021-02-02    | 516. Longest Palindromic Subsequence                                      | DP    |             | Medium     |
 | 2021-02-01    | 91. Decode Ways                                      | DP    |             | Medium     |
