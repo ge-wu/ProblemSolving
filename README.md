@@ -1,6 +1,7 @@
 # LeetCode
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
+| 2021-02-07   | 1162. As Far from Land as Possible | BFS    |             | Medium     |
 | 2021-02-06   | 1036. Escape a Large Maze | BFS    |             | Hard     |
 | 2021-02-05   | 773. Sliding Puzzle | BFS    |             | Hard     |
 | 2021-02-04   | 1161. Maximum Level Sum of a Binary Tree <br /> 994. Rotting Oranges | BFS    |             | Medium     |
