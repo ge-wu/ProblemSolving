@@ -1,9 +1,10 @@
 # LeetCode
 | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | 
 | :--:          | :--                       | :---: | :---:     | :---: |
+| 2021-02-08   | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/)                     | [BFS](https://github.com/ge-wu/LeetCode/blob/main/BFS/0542.01_Matrix.cpp)    |             | Medium     |
 | 2021-02-07   | 1162. As Far from Land as Possible | BFS    |             | Medium     |
-| 2021-02-06   | 1036. Escape a Large Maze | BFS    |             | Hard     |
-| 2021-02-05   | 773. Sliding Puzzle | BFS    |             | Hard     |
+| 2021-02-06   | 1036. Escape a Large Maze          | BFS    |             | Hard     |
+| 2021-02-05   | 773. Sliding Puzzle                | BFS    |             | Hard     |
 | 2021-02-04   | 1161. Maximum Level Sum of a Binary Tree <br /> 994. Rotting Oranges | BFS    |             | Medium     |
 | 2021-02-03    | 63. Unique Paths II                                     | DP    |             | Medium     |
 | 2021-02-02    | 516. Longest Palindromic Subsequence                                      | DP    |             | Medium     |
