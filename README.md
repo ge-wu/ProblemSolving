@@ -44,7 +44,8 @@
 - 1162\. As Far from Land as Possible (M)
 
 #### Union Find
-- 200\. Number of Islands (M)
+[200. Number of Islands](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0200.Number_of_Islands.cpp)  (M)  
+[684. Redundant Connection](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0684.Redundant_Connection.cpp)  (M)  
 
 #### Binary Search
 - 875\. Koko Eating Bananas (M)
