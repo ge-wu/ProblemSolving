@@ -44,6 +44,7 @@
 - 1162\. As Far from Land as Possible (M)
 
 #### Union Find
+[128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0128.Longest_Consecutive_Sequence.cpp) (H)  
 [200. Number of Islands](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0200.Number_of_Islands.cpp)  (M)  
 [547. Number of Provinces](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0547.Number_of_Provinces.cpp) (M)  
 [684. Redundant Connection](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0684.Redundant_Connection.cpp)  (M)  
