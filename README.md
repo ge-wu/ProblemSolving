@@ -48,6 +48,7 @@
 [200. Number of Islands](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0200.Number_of_Islands.cpp)  (M)  
 [547. Number of Provinces](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0547.Number_of_Provinces.cpp) (M)  
 [684. Redundant Connection](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0684.Redundant_Connection.cpp)  (M)  
+[721. Accounts Merge](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0721.Accounts_Merge.cpp)  (M) 
 #### Binary Search
 - 875\. Koko Eating Bananas (M)
 - 911\. Online Election (M) 
