@@ -50,8 +50,9 @@
 [684. Redundant Connection](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0684.Redundant_Connection.cpp)  (M)  
 [721. Accounts Merge](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/0721.Accounts_Merge.cpp)  (M) 
 #### Binary Search
-- 875\. Koko Eating Bananas (M)
-- 911\. Online Election (M) 
+[875\. Koko Eating Bananas](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0875.Koko_Eating_Bananas.cpp) (M)  
+[911\. Online Election](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0911.Online_Election.cpp) (M)  
+[1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp) (M)  
 
 <!-- | Date          | Title                     | Topic 1 | Topic 2 | Difficulty | --> 
 <!-- | :--:          | :--                       | :---: | :---:     | :---: | -->
