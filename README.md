@@ -44,6 +44,7 @@ Only medium or above problems are included. All solusions are written by me in C
 [1036 Escape a Large Maze](https://github.com/ge-wu/LeetCode/blob/main/BFS/1036.Escape_a_Large_Maze.cpp) (M)  
 [1161 Maximum Level Sum of a Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/BFS/1161.Maximum_Level_Sum_of_a_Binary_Tree.cpp) (M)  
 [1162 As Far from Land as Possible](https://github.com/ge-wu/LeetCode/blob/main/BFS/1162.As_Far_from_Land_as_Possible.cpp) (M)  
+[1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp) (M)  
 ##### Dijkstra
 [743. Network Delay Time](https://github.com/ge-wu/LeetCode/blob/main/BFS/0743.Network_Delay_Time.cpp) (M)  
 
