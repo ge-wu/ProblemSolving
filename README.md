@@ -30,7 +30,8 @@ Only medium or above problems are included. All solusions are written by me in C
 - 1262\. Greatest Sum Divisible by Three (M)                  
 - 1388\. Pizza With 3n Slices (H)                           
 - 1419\. Minimum Number of Frogs Croaking (M) 
-- 1626\. Best Team With No Conflicts (M)                
+- 1626\. Best Team With No Conflicts (M)      
+[1770. Maximum Score from Performing Multiplication Operations](https://github.com/ge-wu/LeetCode/blob/main/DP/1770.Maximum_Score_from_Performing_Multiplication_Operations.cpp)  (M)     
 
 ##### Knapsack
 - 322\. Coin Change (M)
