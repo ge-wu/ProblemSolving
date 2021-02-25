@@ -65,6 +65,7 @@ Only medium or above problems are included. All solusions are written by me in C
 [1319. Number of Operations to Make Network Connected](https://github.com/ge-wu/LeetCode/blob/main/Union_Find/1319.Number_of_Operations_to_Make_Network_Connected.cpp)  (M) 
 
 #### Binary Search
+[475. Heaters](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0475.Heaters.cpp) (M)  
 [875. Koko Eating Bananas](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0875.Koko_Eating_Bananas.cpp) (M)  
 [911. Online Election](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0911.Online_Election.cpp) (M)  
 [1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp) (M)  
