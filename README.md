@@ -5,11 +5,11 @@ Only medium or above problems are included. All solusions are written by me in C
   <summary>Heap</summary>
   <ul>
   <li><a href="https://github.com/ge-wu/LeetCode/blob/main/Heap/0023.Merge_k_Sorted_Lists.cpp" style="color:red">
-  23. Merge k Sorted Lists 
+  23. Merge k Sorted Lists [:red_circle:]
   </a></li>
 
   <li><a href="https://github.com/ge-wu/LeetCode/blob/main/Heap/0215.Kth_Largest_Element_in_an_Array.cpp" style="color:#e6bb00">
-  215. Kth Largest Element in an Array
+  215. Kth Largest Element in an Array [:full_moon:]
   </a></li>
 
   <li><a href="https://github.com/ge-wu/LeetCode/blob/main/Heap/0313.Super_Ugly_Number.cpp" style="color:#e6bb00">
