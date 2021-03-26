@@ -20,6 +20,7 @@ Only medium or above problems are included. All solusions are written by me in C
 <details>
   <summary>DFS</summary>
   <ul style="list-style-type:none;">
+    <li>🔴 <a href="https://github.com/ge-wu/LeetCode/blob/main/DFS/0037.Sudoku_Solver.cpp"> 37. Sudoku Solver </a> </li>
     <li>:full_moon: <a href="https://github.com/ge-wu/LeetCode/blob/main/DFS/0417.Pacific_Atlantic_Water_Flow.cpp"> 417. Pacific Atlantic Water Flow </a> </li>
     <li>:full_moon: <a href="https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp"> 841. Keys and Rooms </a> </li>
     <li>:full_moon: <a href="https://github.com/ge-wu/LeetCode/blob/main/DFS/1302.Deepest_Leaves_Sum.cpp"> 1302. Deepest Leaves Sum </a> </li>
