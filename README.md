@@ -29,12 +29,16 @@ Only medium or above problems are included. All solusions are written by me in C
     <li>:full_moon: <a href="https://github.com/ge-wu/LeetCode/blob/main/DFS/1786.Number_of_Restricted_Paths_From_First_to_Last_Node.cpp"> 1786. Number of Restricted Paths From First to Last Node </a> </li>
  </ul>
 </details>
-#### Binary Search 
 
-[34. Find First and Last Position of Element in Sorted Array](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)<br/>
-[475. Heaters](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0475.Heaters.cpp)<br/>
-[875. Koko Eating Bananas](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0875.Koko_Eating_Bananas.cpp)<br/>
-[911. Online Election](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0911.Online_Election.cpp)<br/>
-[1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp)<br/>
+<details>
+  <summary>Binary Search</summary>
+  <ul>
+    <li><a href=https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp> 34. Find First and Last Position of Element in Sorted Array</a></li>
+<li><a href=https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0475.Heaters.cpp> 475. Heaters</a></li>
+<li><a href=https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0875.Koko_Eating_Bananas.cpp> 875. Koko Eating Bananas</a></li>
+<li><a href=https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/0911.Online_Election.cpp> 911. Online Election</a></li>
+<li><a href=https://github.com/ge-wu/LeetCode/blob/main/Binary_Search/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp> 1760. Minimum Limit of Balls in a Bag</a></li>
 
+ </ul>
+</details>
 
