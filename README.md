@@ -4,6 +4,7 @@
 :full_moon: [6. ZigZag Conversion](https://github.com/ge-wu/LeetCode/blob/main/String/0006.ZigZag_Conversion.cpp)  
 :full_moon: [8. String to Integer (atoi)](https://github.com/ge-wu/LeetCode/blob/main/String/0008.String_to_Integer(atoi).cpp)  
 :full_moon: [12. Integer to Roman](https://github.com/ge-wu/LeetCode/blob/main/String/0012.Integer_to_Roman.cpp)  
+:full_moon: [38. Count and Say](https://github.com/ge-wu/LeetCode/blob/main/String/0038.Count_and_Say.cpp)  
 :full_moon: [49. Group Anagrams](https://github.com/ge-wu/LeetCode/blob/main/String/0049.Group_Anagrams.cpp)  
 :full_moon: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
 :full_moon: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
