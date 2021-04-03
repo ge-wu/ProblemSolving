@@ -58,6 +58,8 @@
 :full_moon: [870. Advantage Shuffle](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0870.Advantage_Shuffle.cpp)  
 :full_moon: [1717. Maximum Score From Removing Substrings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1717.Maximum_Score_From_Removing_Substrings.cpp)  
 :full_moon: [1754. Largest Merge Of Two Strings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1754.Largest_Merge_Of_Two_Strings.cpp)  
+#### SegmentTree
+:full_moon: [307. Range Sum Query - Mutable](https://github.com/ge-wu/LeetCode/blob/main/SegmentTree/0307.Range_Sum_Query-Mutable.cpp)  
 #### DynamicProgramming
 :red_circle: [10. Regular Expression Matching](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0010.Regular_Expression_Matching.cpp)  
 :full_moon: [62. Unique Paths](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0062.Unique_Paths.cpp)  
