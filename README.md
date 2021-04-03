@@ -100,6 +100,7 @@
 :full_moon: [1419. Minimum Number of Frogs Croaking](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1419.Minimum_Number_of_Frogs_Croaking.cpp)  
 :red_circle: [1458. Max Dot Product of Two Subsequences](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1458.Max_Dot_Product_of_Two_Subsequences.cpp)  
 :full_moon: [1626. Best Team With No Conflicts](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1626.Best_Team_With_No_Conflicts.cpp)  
+:full_moon: [1641. Count Sorted Vowel Strings](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1641.Count_Sorted_Vowel_Strings.cpp)  
 :full_moon: [1770. Maximum Score from Performing Multiplication Operations](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1770.Maximum_Score_from_Performing_Multiplication_Operations.cpp)  
 #### LinkedList
 :full_moon: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
