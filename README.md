@@ -48,6 +48,7 @@
 :full_moon: [1054. Distant Barcodes](https://github.com/ge-wu/LeetCode/blob/main/Heap/1054.Distant_Barcodes.cpp)  
 :full_moon: [1792. Maximum Average Pass Ratio](https://github.com/ge-wu/LeetCode/blob/main/Heap/1792.Maximum_Average_Pass_Ratio.cpp)  
 :full_moon: [1801. Number of Orders in the Backlog](https://github.com/ge-wu/LeetCode/blob/main/Heap/1801.Number_of_Orders_in_the_Backlog.cpp)  
+:full_moon: [1818. Minimum Absolute Sum Difference](https://github.com/ge-wu/LeetCode/blob/main/Heap/1818.Minimum_Absolute_Sum_Difference.cpp)  
 #### Stack
 :full_moon: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
 #### BinarySearch
