@@ -10,6 +10,7 @@
 :full_moon: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
 :full_moon: [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/ge-wu/LeetCode/blob/main/String/1461.Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.cpp)  
 :full_moon: [1807. Evaluate the Bracket Pairs of a String](https://github.com/ge-wu/LeetCode/blob/main/String/1807.Evaluate_the_Bracket_Pairs_of_a_String.cpp)  
+:full_moon: [1813. Sentence Similarity III](https://github.com/ge-wu/LeetCode/blob/main/String/1813.Sentence_Similarity_III.cpp)  
 #### Trie
 :full_moon: [211. Design Add and Search Words Data Structure](https://github.com/ge-wu/LeetCode/blob/main/Trie/0211.Design_Add_and_Search_Words_Data_Structure.cpp)  
 :full_moon: [421. Maximum XOR of Two Numbers in an Array](https://github.com/ge-wu/LeetCode/blob/main/Trie/0421.Maximum_XOR_of_Two_Numbers_in_an_Array.cpp)  
@@ -51,6 +52,8 @@
 :full_moon: [1818. Minimum Absolute Sum Difference](https://github.com/ge-wu/LeetCode/blob/main/Heap/1818.Minimum_Absolute_Sum_Difference.cpp)  
 #### Stack
 :full_moon: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
+#### Hash
+:full_moon: [1814. Count Nice Pairs in an Array](https://github.com/ge-wu/LeetCode/blob/main/Hash/1814.Count_Nice_Pairs_in_an_Array.cpp)  
 #### BinarySearch
 :full_moon: [34. Find First and Last Position of Element in Sorted Array](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)  
 :full_moon: [475. Heaters](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0475.Heaters.cpp)  
