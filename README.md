@@ -34,6 +34,7 @@
 :full_moon: [797. All Paths From Source to Target](https://github.com/ge-wu/LeetCode/blob/main/DFS/0797.All_Paths_From_Source_to_Target.cpp)  
 :full_moon: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
 :full_moon: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/DFS/1302.Deepest_Leaves_Sum.cpp)  
+:full_moon: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/DFS/1306.Jump_Game_III.cpp)  
 :full_moon: [1530. Number of Good Leaf Nodes Pairs](https://github.com/ge-wu/LeetCode/blob/main/DFS/1530.Number_of_Good_Leaf_Nodes_Pairs.cpp)  
 :full_moon: [1774. Closest Dessert Cost](https://github.com/ge-wu/LeetCode/blob/main/DFS/1774.Closest_Dessert_Cost.cpp)  
 :full_moon: [1786. Number of Restricted Paths From First to Last Node](https://github.com/ge-wu/LeetCode/blob/main/DFS/1786.Number_of_Restricted_Paths_From_First_to_Last_Node.cpp)  
@@ -130,4 +131,5 @@
 :red_circle: [1036. Escape a Large Maze](https://github.com/ge-wu/LeetCode/blob/main/BFS/1036.Escape_a_Large_Maze.cpp)  
 :full_moon: [1161. Maximum Level Sum of a Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/BFS/1161.Maximum_Level_Sum_of_a_Binary_Tree.cpp)  
 :full_moon: [1162. As Far from Land as Possible](https://github.com/ge-wu/LeetCode/blob/main/BFS/1162.As_Far_from_Land_as_Possible.cpp)  
+:full_moon: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/BFS/1306.Jump_Game_III.cpp)  
 :full_moon: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
