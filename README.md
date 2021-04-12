@@ -111,6 +111,7 @@
 :full_moon: [1626. Best Team With No Conflicts](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1626.Best_Team_With_No_Conflicts.cpp)  
 :full_moon: [1641. Count Sorted Vowel Strings](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1641.Count_Sorted_Vowel_Strings.cpp)  
 :full_moon: [1770. Maximum Score from Performing Multiplication Operations](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1770.Maximum_Score_from_Performing_Multiplication_Operations.cpp)  
+:full_moon: [1824. Minimum Sideway Jumps](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1824.Minimum_Sideway_Jumps.cpp)  
 #### LinkedList
 :full_moon: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
 :full_moon: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
