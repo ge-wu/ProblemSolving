@@ -30,6 +30,7 @@
 #### DFS
 :full_moon: [17. Letter Combinations of a Phone Number](https://github.com/ge-wu/LeetCode/blob/main/DFS/0017.Letter_Combinations_of_a_Phone_Number.cpp)  
 :red_circle: [37. Sudoku Solver](https://github.com/ge-wu/LeetCode/blob/main/DFS/0037.Sudoku_Solver.cpp)  
+:red_circle: [51. N-Queens](https://github.com/ge-wu/LeetCode/blob/main/DFS/0051.N-Queens.cpp)  
 :full_moon: [417. Pacific Atlantic Water Flow](https://github.com/ge-wu/LeetCode/blob/main/DFS/0417.Pacific_Atlantic_Water_Flow.cpp)  
 :full_moon: [797. All Paths From Source to Target](https://github.com/ge-wu/LeetCode/blob/main/DFS/0797.All_Paths_From_Source_to_Target.cpp)  
 :full_moon: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
