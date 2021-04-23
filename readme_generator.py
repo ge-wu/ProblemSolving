@@ -7,8 +7,7 @@ import json
 
 def get_problems():
     api_url = "https://leetcode.com/api/problems/algorithms/"
-    session = requests.Session()
-    resp = session.get(api_url)
+    resp = requests.get(api_url)
     question_json = json.loads(resp.content.decode("utf-8"))
 
     data = {}
@@ -27,33 +26,39 @@ def get_problems():
             "title_slug": question_title_slug,
             "difficulty": int(difficulty)
         }
-    print(data)
     return data
+
 
 def main():
     repo_url = "https://github.com/ge-wu/LeetCode/blob/main/"
     data = get_problems()
 
-    readme_header = "# LeetCode\n Only medium and above problems are included. All "\
-        "solutions are written by me in C++. The main purpose is daily entertainment\n"
+    readme_header = "# LeetCode\n " \
+                    "Only medium and above problems are included. " \
+                    "All solutions are written by me in C++. " \
+                    "The main purpose is daily entertainment\n"
 
     f = open("README.md", 'w')
     f.write(readme_header)
-    
+
     for root, _, files in os.walk("./"):
         if "git" in root or root == "./":
             continue
         f.write("#### " + root[2:] + '\n')
         for filename in sorted(files):
+            if ".cpp" not in filename:
+                continue
             problem_id = int(filename.split('.')[0])
             file_url = repo_url + root[2:] + '/' + filename
-            difficulty = ":red_circle:" if data[problem_id]["difficulty"] == 3 else ":full_moon:"
+            if data[problem_id]["difficulty"] == 3:
+                difficulty = ":red_circle"
+            else:
+                difficulty = ":yellow_circle:"
             display_title = f'{problem_id}. {data[problem_id]["title"]}'
             full_title = f'{difficulty} [{display_title}]({file_url})  '
             f.write(full_title + '\n')
 
     f.close()
-
 
 if __name__ == "__main__":
     main()
