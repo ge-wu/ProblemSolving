@@ -51,7 +51,7 @@ def main():
             problem_id = int(filename.split('.')[0])
             file_url = repo_url + root[2:] + '/' + filename
             if data[problem_id]["difficulty"] == 3:
-                difficulty = ":red_circle"
+                difficulty = ":red_circle:"
             else:
                 difficulty = ":yellow_circle:"
             display_title = f'{problem_id}. {data[problem_id]["title"]}'
