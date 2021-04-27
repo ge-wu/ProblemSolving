@@ -66,11 +66,13 @@
 :yellow_circle: [911. Online Election](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0911.Online_Election.cpp)  
 :yellow_circle: [1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp)  
 #### Greedy
+:red_circle: [135. Candy](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0135.Candy.cpp)  
 :yellow_circle: [870. Advantage Shuffle](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0870.Advantage_Shuffle.cpp)  
 :yellow_circle: [1657. Determine if Two Strings Are Close](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1657.Determine_if_Two_Strings_Are_Close.cpp)  
 :yellow_circle: [1717. Maximum Score From Removing Substrings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1717.Maximum_Score_From_Removing_Substrings.cpp)  
 :yellow_circle: [1754. Largest Merge Of Two Strings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1754.Largest_Merge_Of_Two_Strings.cpp)  
 :yellow_circle: [1833. Maximum Ice Cream Bars](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1833.Maximum_Ice_Cream_Bars.cpp)  
+:red_circle: [1840. Maximum Building Height](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1840.Maximum_Building_Height.cpp)  
 #### SegmentTree
 :yellow_circle: [307. Range Sum Query - Mutable](https://github.com/ge-wu/LeetCode/blob/main/SegmentTree/0307.Range_Sum_Query-Mutable.cpp)  
 #### DynamicProgramming
@@ -121,6 +123,9 @@
 #### LinkedList
 :yellow_circle: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
+#### TwoPointer
+:yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
+:yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 #### .idea
 #### .idea/inspectionProfiles
 #### Math
