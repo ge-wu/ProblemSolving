@@ -50,6 +50,7 @@
 :red_circle: [502. IPO](https://github.com/ge-wu/LeetCode/blob/main/Heap/0502.IPO.cpp)  
 :yellow_circle: [973. K Closest Points to Origin](https://github.com/ge-wu/LeetCode/blob/main/Heap/0973.K_Closest_Points_to_Origin.cpp)  
 :yellow_circle: [1054. Distant Barcodes](https://github.com/ge-wu/LeetCode/blob/main/Heap/1054.Distant_Barcodes.cpp)  
+:yellow_circle: [1642. Furthest Building You Can Reach](https://github.com/ge-wu/LeetCode/blob/main/Heap/1642.Furthest_Building_You_Can_Reach.cpp)  
 :yellow_circle: [1792. Maximum Average Pass Ratio](https://github.com/ge-wu/LeetCode/blob/main/Heap/1792.Maximum_Average_Pass_Ratio.cpp)  
 :yellow_circle: [1801. Number of Orders in the Backlog](https://github.com/ge-wu/LeetCode/blob/main/Heap/1801.Number_of_Orders_in_the_Backlog.cpp)  
 :yellow_circle: [1818. Minimum Absolute Sum Difference](https://github.com/ge-wu/LeetCode/blob/main/Heap/1818.Minimum_Absolute_Sum_Difference.cpp)  
@@ -126,8 +127,6 @@
 #### TwoPointer
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
-#### .idea
-#### .idea/inspectionProfiles
 #### Math
 :yellow_circle: [423. Reconstruct Original Digits from English](https://github.com/ge-wu/LeetCode/blob/main/Math/0423.Reconstruct_Original_Digits_from_English.cpp)  
 :yellow_circle: [478. Generate Random Point in a Circle](https://github.com/ge-wu/LeetCode/blob/main/Math/0478.Generate_Random_Point_in_a_Circle.cpp)  
