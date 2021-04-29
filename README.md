@@ -48,6 +48,7 @@
 :yellow_circle: [373. Find K Pairs with Smallest Sums](https://github.com/ge-wu/LeetCode/blob/main/Heap/0373.Find_K_Pairs_with_Smallest_Sums.cpp)  
 :yellow_circle: [451. Sort Characters By Frequency](https://github.com/ge-wu/LeetCode/blob/main/Heap/0451.Sort_Characters_By_Frequency.cpp)  
 :red_circle: [502. IPO](https://github.com/ge-wu/LeetCode/blob/main/Heap/0502.IPO.cpp)  
+:yellow_circle: [767. Reorganize String](https://github.com/ge-wu/LeetCode/blob/main/Heap/0767.Reorganize_String.cpp)  
 :yellow_circle: [973. K Closest Points to Origin](https://github.com/ge-wu/LeetCode/blob/main/Heap/0973.K_Closest_Points_to_Origin.cpp)  
 :yellow_circle: [1054. Distant Barcodes](https://github.com/ge-wu/LeetCode/blob/main/Heap/1054.Distant_Barcodes.cpp)  
 :yellow_circle: [1642. Furthest Building You Can Reach](https://github.com/ge-wu/LeetCode/blob/main/Heap/1642.Furthest_Building_You_Can_Reach.cpp)  
