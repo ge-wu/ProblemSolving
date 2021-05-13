@@ -36,6 +36,7 @@
 :yellow_circle: [797. All Paths From Source to Target](https://github.com/ge-wu/LeetCode/blob/main/DFS/0797.All_Paths_From_Source_to_Target.cpp)  
 :red_circle: [839. Similar String Groups](https://github.com/ge-wu/LeetCode/blob/main/DFS/0839.Similar_String_Groups.cpp)  
 :yellow_circle: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
+:yellow_circle: [967. Numbers With Same Consecutive Differences](https://github.com/ge-wu/LeetCode/blob/main/DFS/0967.Numbers_With_Same_Consecutive_Differences.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/DFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/DFS/1306.Jump_Game_III.cpp)  
 :yellow_circle: [1530. Number of Good Leaf Nodes Pairs](https://github.com/ge-wu/LeetCode/blob/main/DFS/1530.Number_of_Good_Leaf_Nodes_Pairs.cpp)  
