@@ -152,5 +152,6 @@
 :red_circle: [1036. Escape a Large Maze](https://github.com/ge-wu/LeetCode/blob/main/BFS/1036.Escape_a_Large_Maze.cpp)  
 :yellow_circle: [1161. Maximum Level Sum of a Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/BFS/1161.Maximum_Level_Sum_of_a_Binary_Tree.cpp)  
 :yellow_circle: [1162. As Far from Land as Possible](https://github.com/ge-wu/LeetCode/blob/main/BFS/1162.As_Far_from_Land_as_Possible.cpp)  
+:yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/BFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/BFS/1306.Jump_Game_III.cpp)  
 :yellow_circle: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
