@@ -33,6 +33,7 @@
 :red_circle: [51. N-Queens](https://github.com/ge-wu/LeetCode/blob/main/DFS/0051.N-Queens.cpp)  
 :yellow_circle: [93. Restore IP Addresses](https://github.com/ge-wu/LeetCode/blob/main/DFS/0093.Restore_IP_Addresses.cpp)  
 :yellow_circle: [417. Pacific Atlantic Water Flow](https://github.com/ge-wu/LeetCode/blob/main/DFS/0417.Pacific_Atlantic_Water_Flow.cpp)  
+:yellow_circle: [695. Max Area of Island](https://github.com/ge-wu/LeetCode/blob/main/DFS/0695.Max_Area_of_Island.cpp)  
 :yellow_circle: [797. All Paths From Source to Target](https://github.com/ge-wu/LeetCode/blob/main/DFS/0797.All_Paths_From_Source_to_Target.cpp)  
 :red_circle: [839. Similar String Groups](https://github.com/ge-wu/LeetCode/blob/main/DFS/0839.Similar_String_Groups.cpp)  
 :yellow_circle: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
