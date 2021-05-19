@@ -6,6 +6,7 @@
 :yellow_circle: [12. Integer to Roman](https://github.com/ge-wu/LeetCode/blob/main/String/0012.Integer_to_Roman.cpp)  
 :yellow_circle: [38. Count and Say](https://github.com/ge-wu/LeetCode/blob/main/String/0038.Count_and_Say.cpp)  
 :yellow_circle: [49. Group Anagrams](https://github.com/ge-wu/LeetCode/blob/main/String/0049.Group_Anagrams.cpp)  
+:red_circle: [273. Integer to English Words](https://github.com/ge-wu/LeetCode/blob/main/String/0273.Integer_to_English_Words.cpp)  
 :yellow_circle: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
 :yellow_circle: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
 :yellow_circle: [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/ge-wu/LeetCode/blob/main/String/1461.Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.cpp)  
@@ -38,6 +39,7 @@
 :red_circle: [839. Similar String Groups](https://github.com/ge-wu/LeetCode/blob/main/DFS/0839.Similar_String_Groups.cpp)  
 :yellow_circle: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
 :yellow_circle: [967. Numbers With Same Consecutive Differences](https://github.com/ge-wu/LeetCode/blob/main/DFS/0967.Numbers_With_Same_Consecutive_Differences.cpp)  
+:yellow_circle: [1020. Number of Enclaves](https://github.com/ge-wu/LeetCode/blob/main/DFS/1020.Number_of_Enclaves.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/DFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/DFS/1306.Jump_Game_III.cpp)  
 :yellow_circle: [1530. Number of Good Leaf Nodes Pairs](https://github.com/ge-wu/LeetCode/blob/main/DFS/1530.Number_of_Good_Leaf_Nodes_Pairs.cpp)  
@@ -104,6 +106,7 @@
 :yellow_circle: [376. Wiggle Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0376.Wiggle_Subsequence.cpp)  
 :red_circle: [514. Freedom Trail](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0514.Freedom_Trail.cpp)  
 :yellow_circle: [516. Longest Palindromic Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0516.Longest_Palindromic_Subsequence.cpp)  
+:yellow_circle: [576. Out of Boundary Paths](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0576.Out_of_Boundary_Paths.cpp)  
 :yellow_circle: [583. Delete Operation for Two Strings](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0583.Delete_Operation_for_Two_Strings.cpp)  
 :yellow_circle: [650. 2 Keys Keyboard](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0650.2_Keys_Keyboard.cpp)  
 :yellow_circle: [673. Number of Longest Increasing Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0673.Number_of_Longest_Increasing_Subsequence.cpp)  
@@ -129,17 +132,22 @@
 #### LinkedList
 :yellow_circle: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
+#### Tree
+:yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
 #### TwoPointer
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 :yellow_circle: [1855. Maximum Distance Between a Pair of Values](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1855.Maximum_Distance_Between_a_Pair_of_Values.cpp)  
+#### .idea
+#### .idea/inspectionProfiles
 #### Math
 :yellow_circle: [423. Reconstruct Original Digits from English](https://github.com/ge-wu/LeetCode/blob/main/Math/0423.Reconstruct_Original_Digits_from_English.cpp)  
 :yellow_circle: [478. Generate Random Point in a Circle](https://github.com/ge-wu/LeetCode/blob/main/Math/0478.Generate_Random_Point_in_a_Circle.cpp)  
 :yellow_circle: [1780. Check if Number is a Sum of Powers of Three](https://github.com/ge-wu/LeetCode/blob/main/Math/1780.Check_if_Number_is_a_Sum_of_Powers_of_Three.cpp)  
 :red_circle: [1808. Maximize Number of Nice Divisors](https://github.com/ge-wu/LeetCode/blob/main/Math/1808.Maximize_Number_of_Nice_Divisors.cpp)  
 :red_circle: [1835. Find XOR Sum of All Pairs Bitwise AND](https://github.com/ge-wu/LeetCode/blob/main/Math/1835.Find_XOR_Sum_of_All_Pairs_Bitwise_AND.cpp)  
+:yellow_circle: [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/ge-wu/LeetCode/blob/main/Math/1864.Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.cpp)  
 #### BFS
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/BFS/0130.Surrounded_Regions.cpp)  
 :yellow_circle: [133. Clone Graph](https://github.com/ge-wu/LeetCode/blob/main/BFS/0133.Clone_Graph.cpp)  
@@ -156,3 +164,5 @@
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/BFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/BFS/1306.Jump_Game_III.cpp)  
 :yellow_circle: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
+#### Bruteforce
+:yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
