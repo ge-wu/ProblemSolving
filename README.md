@@ -87,6 +87,7 @@
 :red_circle: [10. Regular Expression Matching](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0010.Regular_Expression_Matching.cpp)  
 :yellow_circle: [62. Unique Paths](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0062.Unique_Paths.cpp)  
 :yellow_circle: [63. Unique Paths II](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0063.Unique_Paths_II.cpp)  
+:red_circle: [72. Edit Distance](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0072.Edit_Distance.cpp)  
 :yellow_circle: [91. Decode Ways](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0091.Decode_Ways.cpp)  
 :yellow_circle: [120. Triangle](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0120.Triangle.cpp)  
 :red_circle: [123. Best Time to Buy and Sell Stock III](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0123.Best_Time_to_Buy_and_Sell_Stock_III.cpp)  
