@@ -24,6 +24,7 @@
 :yellow_circle: [721. Accounts Merge](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0721.Accounts_Merge.cpp)  
 :red_circle: [765. Couples Holding Hands](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0765.Couples_Holding_Hands.cpp)  
 :yellow_circle: [785. Is Graph Bipartite?](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0785.Is_Graph_Bipartite?.cpp)  
+:red_circle: [924. Minimize Malware Spread](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0924.Minimize_Malware_Spread.cpp)  
 :yellow_circle: [947. Most Stones Removed with Same Row or Column](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0947.Most_Stones_Removed_with_Same_Row_or_Column.cpp)  
 :yellow_circle: [959. Regions Cut By Slashes](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0959.Regions_Cut_By_Slashes.cpp)  
 :yellow_circle: [1202. Smallest String With Swaps](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/1202.Smallest_String_With_Swaps.cpp)  
