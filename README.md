@@ -26,6 +26,7 @@
 :yellow_circle: [785. Is Graph Bipartite?](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0785.Is_Graph_Bipartite?.cpp)  
 :red_circle: [924. Minimize Malware Spread](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0924.Minimize_Malware_Spread.cpp)  
 :yellow_circle: [947. Most Stones Removed with Same Row or Column](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0947.Most_Stones_Removed_with_Same_Row_or_Column.cpp)  
+:red_circle: [952. Largest Component Size by Common Factor](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0952.Largest_Component_Size_by_Common_Factor.cpp)  
 :yellow_circle: [959. Regions Cut By Slashes](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0959.Regions_Cut_By_Slashes.cpp)  
 :yellow_circle: [1202. Smallest String With Swaps](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/1202.Smallest_String_With_Swaps.cpp)  
 :yellow_circle: [1319. Number of Operations to Make Network Connected](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/1319.Number_of_Operations_to_Make_Network_Connected.cpp)  
@@ -142,8 +143,6 @@
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 :yellow_circle: [1855. Maximum Distance Between a Pair of Values](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1855.Maximum_Distance_Between_a_Pair_of_Values.cpp)  
-#### .idea
-#### .idea/inspectionProfiles
 #### Math
 :yellow_circle: [423. Reconstruct Original Digits from English](https://github.com/ge-wu/LeetCode/blob/main/Math/0423.Reconstruct_Original_Digits_from_English.cpp)  
 :yellow_circle: [478. Generate Random Point in a Circle](https://github.com/ge-wu/LeetCode/blob/main/Math/0478.Generate_Random_Point_in_a_Circle.cpp)  
