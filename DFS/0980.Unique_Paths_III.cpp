@@ -1,13 +1,11 @@
 class Solution {
 public:
     vector<vector<int>> w;
-    int cnt, x, y, m, n;
+    int m, n;
     
     int uniquePathsIII(vector<vector<int>>& grid) {
         w = grid;
-        cnt = 2;
-        x = -1;
-        y = -1;
+        int cnt = 2, x = -1, y = -1;
         m = grid.size();
         n = grid[0].size();
         for (int i = 0; i < m; i++) {
