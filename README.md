@@ -16,7 +16,7 @@
 :yellow_circle: [211. Design Add and Search Words Data Structure](https://github.com/ge-wu/LeetCode/blob/main/Trie/0211.Design_Add_and_Search_Words_Data_Structure.cpp)  
 :yellow_circle: [421. Maximum XOR of Two Numbers in an Array](https://github.com/ge-wu/LeetCode/blob/main/Trie/0421.Maximum_XOR_of_Two_Numbers_in_an_Array.cpp)  
 #### UnionFind
-:red_circle: [128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0128.Longest_Consecutive_Sequence.cpp)  
+:yellow_circle: [128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0128.Longest_Consecutive_Sequence.cpp)  
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0130.Surrounded_Regions.cpp)  
 :yellow_circle: [200. Number of Islands](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0200.Number_of_Islands.cpp)  
 :yellow_circle: [547. Number of Provinces](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0547.Number_of_Provinces.cpp)  
@@ -42,6 +42,7 @@
 :red_circle: [839. Similar String Groups](https://github.com/ge-wu/LeetCode/blob/main/DFS/0839.Similar_String_Groups.cpp)  
 :yellow_circle: [841. Keys and Rooms](https://github.com/ge-wu/LeetCode/blob/main/DFS/0841.Keys_and_Rooms.cpp)  
 :yellow_circle: [967. Numbers With Same Consecutive Differences](https://github.com/ge-wu/LeetCode/blob/main/DFS/0967.Numbers_With_Same_Consecutive_Differences.cpp)  
+:red_circle: [980. Unique Paths III](https://github.com/ge-wu/LeetCode/blob/main/DFS/0980.Unique_Paths_III.cpp)  
 :yellow_circle: [1020. Number of Enclaves](https://github.com/ge-wu/LeetCode/blob/main/DFS/1020.Number_of_Enclaves.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/DFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/DFS/1306.Jump_Game_III.cpp)  
@@ -72,10 +73,12 @@
 :yellow_circle: [1814. Count Nice Pairs in an Array](https://github.com/ge-wu/LeetCode/blob/main/Hash/1814.Count_Nice_Pairs_in_an_Array.cpp)  
 #### BinarySearch
 :yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)  
+:yellow_circle: [287. Find the Duplicate Number](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0287.Find_the_Duplicate_Number.cpp)  
 :yellow_circle: [475. Heaters](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0475.Heaters.cpp)  
 :yellow_circle: [875. Koko Eating Bananas](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0875.Koko_Eating_Bananas.cpp)  
 :yellow_circle: [911. Online Election](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0911.Online_Election.cpp)  
 :yellow_circle: [1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp)  
+:yellow_circle: [1870. Minimum Speed to Arrive on Time](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/1870.Minimum_Speed_to_Arrive_on_Time.cpp)  
 #### Greedy
 :red_circle: [135. Candy](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0135.Candy.cpp)  
 :yellow_circle: [870. Advantage Shuffle](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0870.Advantage_Shuffle.cpp)  
@@ -158,6 +161,7 @@
 :red_circle: [675. Cut Off Trees for Golf Event](https://github.com/ge-wu/LeetCode/blob/main/BFS/0675.Cut_Off_Trees_for_Golf_Event.cpp)  
 :yellow_circle: [743. Network Delay Time](https://github.com/ge-wu/LeetCode/blob/main/BFS/0743.Network_Delay_Time.cpp)  
 :red_circle: [773. Sliding Puzzle](https://github.com/ge-wu/LeetCode/blob/main/BFS/0773.Sliding_Puzzle.cpp)  
+:red_circle: [854. K-Similar Strings](https://github.com/ge-wu/LeetCode/blob/main/BFS/0854.K-Similar_Strings.cpp)  
 :yellow_circle: [909. Snakes and Ladders](https://github.com/ge-wu/LeetCode/blob/main/BFS/0909.Snakes_and_Ladders.cpp)  
 :yellow_circle: [994. Rotting Oranges](https://github.com/ge-wu/LeetCode/blob/main/BFS/0994.Rotting_Oranges.cpp)  
 :red_circle: [1036. Escape a Large Maze](https://github.com/ge-wu/LeetCode/blob/main/BFS/1036.Escape_a_Large_Maze.cpp)  
@@ -166,5 +170,7 @@
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/BFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/BFS/1306.Jump_Game_III.cpp)  
 :yellow_circle: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
+:yellow_circle: [1871. Jump Game VII](https://github.com/ge-wu/LeetCode/blob/main/BFS/1871.Jump_Game_VII.cpp)  
 #### Bruteforce
+:yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
