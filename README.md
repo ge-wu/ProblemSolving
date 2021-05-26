@@ -8,6 +8,7 @@
 :yellow_circle: [49. Group Anagrams](https://github.com/ge-wu/LeetCode/blob/main/String/0049.Group_Anagrams.cpp)  
 :red_circle: [273. Integer to English Words](https://github.com/ge-wu/LeetCode/blob/main/String/0273.Integer_to_English_Words.cpp)  
 :yellow_circle: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
+:yellow_circle: [890. Find and Replace Pattern](https://github.com/ge-wu/LeetCode/blob/main/String/0890.Find_and_Replace_Pattern.cpp)  
 :yellow_circle: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
 :yellow_circle: [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/ge-wu/LeetCode/blob/main/String/1461.Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.cpp)  
 :yellow_circle: [1807. Evaluate the Bracket Pairs of a String](https://github.com/ge-wu/LeetCode/blob/main/String/1807.Evaluate_the_Bracket_Pairs_of_a_String.cpp)  
