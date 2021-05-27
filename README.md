@@ -68,6 +68,7 @@
 :red_circle: [1825. Finding MK Average](https://github.com/ge-wu/LeetCode/blob/main/Heap/1825.Finding_MK_Average.cpp)  
 :yellow_circle: [1834. Single-Threaded CPU](https://github.com/ge-wu/LeetCode/blob/main/Heap/1834.Single-Threaded_CPU.cpp)  
 #### Stack
+:yellow_circle: [71. Simplify Path](https://github.com/ge-wu/LeetCode/blob/main/Stack/0071.Simplify_Path.cpp)  
 :yellow_circle: [394. Decode String](https://github.com/ge-wu/LeetCode/blob/main/Stack/0394.Decode_String.cpp)  
 :yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
 #### Hash
