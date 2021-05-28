@@ -16,6 +16,7 @@
 #### Trie
 :yellow_circle: [211. Design Add and Search Words Data Structure](https://github.com/ge-wu/LeetCode/blob/main/Trie/0211.Design_Add_and_Search_Words_Data_Structure.cpp)  
 :yellow_circle: [421. Maximum XOR of Two Numbers in an Array](https://github.com/ge-wu/LeetCode/blob/main/Trie/0421.Maximum_XOR_of_Two_Numbers_in_an_Array.cpp)  
+:yellow_circle: [677. Map Sum Pairs](https://github.com/ge-wu/LeetCode/blob/main/Trie/0677.Map_Sum_Pairs.cpp)  
 #### UnionFind
 :yellow_circle: [128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0128.Longest_Consecutive_Sequence.cpp)  
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0130.Surrounded_Regions.cpp)  
