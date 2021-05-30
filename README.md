@@ -7,6 +7,7 @@
 :yellow_circle: [38. Count and Say](https://github.com/ge-wu/LeetCode/blob/main/String/0038.Count_and_Say.cpp)  
 :yellow_circle: [49. Group Anagrams](https://github.com/ge-wu/LeetCode/blob/main/String/0049.Group_Anagrams.cpp)  
 :red_circle: [273. Integer to English Words](https://github.com/ge-wu/LeetCode/blob/main/String/0273.Integer_to_English_Words.cpp)  
+:yellow_circle: [443. String Compression](https://github.com/ge-wu/LeetCode/blob/main/String/0443.String_Compression.cpp)  
 :yellow_circle: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
 :yellow_circle: [890. Find and Replace Pattern](https://github.com/ge-wu/LeetCode/blob/main/String/0890.Find_and_Replace_Pattern.cpp)  
 :yellow_circle: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
@@ -73,6 +74,7 @@
 :yellow_circle: [394. Decode String](https://github.com/ge-wu/LeetCode/blob/main/Stack/0394.Decode_String.cpp)  
 :yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
 #### Hash
+:yellow_circle: [1451. Rearrange Words in a Sentence](https://github.com/ge-wu/LeetCode/blob/main/Hash/1451.Rearrange_Words_in_a_Sentence.cpp)  
 :yellow_circle: [1814. Count Nice Pairs in an Array](https://github.com/ge-wu/LeetCode/blob/main/Hash/1814.Count_Nice_Pairs_in_an_Array.cpp)  
 #### BinarySearch
 :yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)  
@@ -84,6 +86,7 @@
 :yellow_circle: [1870. Minimum Speed to Arrive on Time](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/1870.Minimum_Speed_to_Arrive_on_Time.cpp)  
 #### Greedy
 :red_circle: [135. Candy](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0135.Candy.cpp)  
+:yellow_circle: [179. Largest Number](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0179.Largest_Number.cpp)  
 :yellow_circle: [870. Advantage Shuffle](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0870.Advantage_Shuffle.cpp)  
 :yellow_circle: [1657. Determine if Two Strings Are Close](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1657.Determine_if_Two_Strings_Are_Close.cpp)  
 :yellow_circle: [1717. Maximum Score From Removing Substrings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1717.Maximum_Score_From_Removing_Substrings.cpp)  
@@ -149,6 +152,8 @@
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 :yellow_circle: [1855. Maximum Distance Between a Pair of Values](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1855.Maximum_Distance_Between_a_Pair_of_Values.cpp)  
+#### .idea
+#### .idea/inspectionProfiles
 #### Math
 :yellow_circle: [423. Reconstruct Original Digits from English](https://github.com/ge-wu/LeetCode/blob/main/Math/0423.Reconstruct_Original_Digits_from_English.cpp)  
 :yellow_circle: [478. Generate Random Point in a Circle](https://github.com/ge-wu/LeetCode/blob/main/Math/0478.Generate_Random_Point_in_a_Circle.cpp)  
@@ -172,6 +177,7 @@
 :yellow_circle: [1162. As Far from Land as Possible](https://github.com/ge-wu/LeetCode/blob/main/BFS/1162.As_Far_from_Land_as_Possible.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/BFS/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1306. Jump Game III](https://github.com/ge-wu/LeetCode/blob/main/BFS/1306.Jump_Game_III.cpp)  
+:yellow_circle: [1609. Even Odd Tree](https://github.com/ge-wu/LeetCode/blob/main/BFS/1609.Even_Odd_Tree.cpp)  
 :yellow_circle: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
 :yellow_circle: [1871. Jump Game VII](https://github.com/ge-wu/LeetCode/blob/main/BFS/1871.Jump_Game_VII.cpp)  
 #### Bruteforce
