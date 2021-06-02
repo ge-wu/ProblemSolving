@@ -35,7 +35,7 @@ def main():
     readme_header = "# LeetCode\n " \
                     "All solutions are written by me in C++. " \
                     "The main purpose is daily entertainment. " \
-                    "So not meant for tutorial, thus, no explanation are included. \n"
+                    "So not meant for tutorial, thus, no explanations are included. \n"
     diff = {3: ":red_circle:", 2: ":yellow_circle:", 1: ":green_circle:"}
 
     f = open("README.md", 'w')

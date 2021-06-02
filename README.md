@@ -1,5 +1,5 @@
 # LeetCode
- All solutions are written by me in C++. The main purpose is daily entertainment. So not meant for tutorial, thus, no explanation are included. 
+ All solutions are written by me in C++. The main purpose is daily entertainment. So not meant for tutorial, thus, no explanations are included. 
 #### String
 :yellow_circle: [6. ZigZag Conversion](https://github.com/ge-wu/LeetCode/blob/main/String/0006.ZigZag_Conversion.cpp)  
 :yellow_circle: [8. String to Integer (atoi)](https://github.com/ge-wu/LeetCode/blob/main/String/0008.String_to_Integer(atoi).cpp)  
@@ -149,6 +149,7 @@
 :yellow_circle: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
 #### Tree
+:red_circle: [124. Binary Tree Maximum Path Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/0124.Binary_Tree_Maximum_Path_Sum.cpp)  
 :yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
 :yellow_circle: [687. Longest Univalue Path](https://github.com/ge-wu/LeetCode/blob/main/Tree/0687.Longest_Univalue_Path.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/1302.Deepest_Leaves_Sum.cpp)  
