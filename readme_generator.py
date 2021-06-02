@@ -9,7 +9,6 @@ def get_problems():
     api_url = "https://leetcode.com/api/problems/algorithms/"
     resp = requests.get(api_url)
     question_json = json.loads(resp.content.decode("utf-8"))
-
     data = {}
 
     questions = question_json["stat_status_pairs"]
@@ -34,9 +33,10 @@ def main():
     data = get_problems()
 
     readme_header = "# LeetCode\n " \
-                    "Only medium and above problems are included. " \
                     "All solutions are written by me in C++. " \
-                    "The main purpose is daily entertainment\n"
+                    "The main purpose is daily entertainment. " \
+                    "So not meant for tutorial, thus, no explanation are included. \n"
+    diff = {3: ":red_circle:", 2: ":yellow_circle:", 1: ":green_circle:"}
 
     f = open("README.md", 'w')
     f.write(readme_header)
@@ -50,15 +50,15 @@ def main():
                 continue
             problem_id = int(filename.split('.')[0])
             file_url = repo_url + root[2:] + '/' + filename
-            if data[problem_id]["difficulty"] == 3:
-                difficulty = ":red_circle:"
-            else:
-                difficulty = ":yellow_circle:"
-            display_title = f'{problem_id}. {data[problem_id]["title"]}'
-            full_title = f'{difficulty} [{display_title}]({file_url})  '
-            f.write(full_title + '\n')
-
+            try:
+                difficulty = diff[data[problem_id]["difficulty"]]
+                display_title = f'{problem_id}. {data[problem_id]["title"]}'
+                full_title = f'{difficulty} [{display_title}]({file_url})  '
+                f.write(full_title + '\n')
+            except KeyError:
+                continue
     f.close()
+
 
 if __name__ == "__main__":
     main()
