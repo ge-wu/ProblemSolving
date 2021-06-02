@@ -150,6 +150,9 @@
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
 #### Tree
 :yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
+:yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/1302.Deepest_Leaves_Sum.cpp)  
+:yellow_circle: [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/ge-wu/LeetCode/blob/main/Tree/1315.Sum_of_Nodes_with_Even-Valued_Grandparent.cpp)  
+:yellow_circle: [1448. Count Good Nodes in Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1448.Count_Good_Nodes_in_Binary_Tree.cpp)  
 #### TwoPointer
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
