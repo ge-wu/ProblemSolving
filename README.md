@@ -151,6 +151,7 @@
 #### Tree
 :red_circle: [124. Binary Tree Maximum Path Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/0124.Binary_Tree_Maximum_Path_Sum.cpp)  
 :yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
+:green_circle: [543. Diameter of Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/0543.Diameter_of_Binary_Tree.cpp)  
 :yellow_circle: [687. Longest Univalue Path](https://github.com/ge-wu/LeetCode/blob/main/Tree/0687.Longest_Univalue_Path.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/ge-wu/LeetCode/blob/main/Tree/1315.Sum_of_Nodes_with_Even-Valued_Grandparent.cpp)  
