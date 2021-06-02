@@ -11,6 +11,7 @@
 :yellow_circle: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
 :yellow_circle: [890. Find and Replace Pattern](https://github.com/ge-wu/LeetCode/blob/main/String/0890.Find_and_Replace_Pattern.cpp)  
 :yellow_circle: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
+:yellow_circle: [1410. HTML Entity Parser](https://github.com/ge-wu/LeetCode/blob/main/String/1410.HTML_Entity_Parser.cpp)  
 :yellow_circle: [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/ge-wu/LeetCode/blob/main/String/1461.Check_If_a_String_Contains_All_Binary_Codes_of_Size_K.cpp)  
 :yellow_circle: [1807. Evaluate the Bracket Pairs of a String](https://github.com/ge-wu/LeetCode/blob/main/String/1807.Evaluate_the_Bracket_Pairs_of_a_String.cpp)  
 :yellow_circle: [1813. Sentence Similarity III](https://github.com/ge-wu/LeetCode/blob/main/String/1813.Sentence_Similarity_III.cpp)  
@@ -93,6 +94,8 @@
 :yellow_circle: [1754. Largest Merge Of Two Strings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1754.Largest_Merge_Of_Two_Strings.cpp)  
 :yellow_circle: [1833. Maximum Ice Cream Bars](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1833.Maximum_Ice_Cream_Bars.cpp)  
 :red_circle: [1840. Maximum Building Height](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1840.Maximum_Building_Height.cpp)  
+:yellow_circle: [1877. Minimize Maximum Pair Sum in Array](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1877.Minimize_Maximum_Pair_Sum_in_Array.cpp)  
+:yellow_circle: [1881. Maximum Value after Insertion](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1881.Maximum_Value_after_Insertion.cpp)  
 #### SegmentTree
 :yellow_circle: [307. Range Sum Query - Mutable](https://github.com/ge-wu/LeetCode/blob/main/SegmentTree/0307.Range_Sum_Query-Mutable.cpp)  
 #### DynamicProgramming
@@ -155,6 +158,7 @@
 #### Math
 :yellow_circle: [423. Reconstruct Original Digits from English](https://github.com/ge-wu/LeetCode/blob/main/Math/0423.Reconstruct_Original_Digits_from_English.cpp)  
 :yellow_circle: [478. Generate Random Point in a Circle](https://github.com/ge-wu/LeetCode/blob/main/Math/0478.Generate_Random_Point_in_a_Circle.cpp)  
+:yellow_circle: [553. Optimal Division](https://github.com/ge-wu/LeetCode/blob/main/Math/0553.Optimal_Division.cpp)  
 :yellow_circle: [1780. Check if Number is a Sum of Powers of Three](https://github.com/ge-wu/LeetCode/blob/main/Math/1780.Check_if_Number_is_a_Sum_of_Powers_of_Three.cpp)  
 :red_circle: [1808. Maximize Number of Nice Divisors](https://github.com/ge-wu/LeetCode/blob/main/Math/1808.Maximize_Number_of_Nice_Divisors.cpp)  
 :red_circle: [1835. Find XOR Sum of All Pairs Bitwise AND](https://github.com/ge-wu/LeetCode/blob/main/Math/1835.Find_XOR_Sum_of_All_Pairs_Bitwise_AND.cpp)  
@@ -171,6 +175,7 @@
 :yellow_circle: [909. Snakes and Ladders](https://github.com/ge-wu/LeetCode/blob/main/BFS/0909.Snakes_and_Ladders.cpp)  
 :yellow_circle: [994. Rotting Oranges](https://github.com/ge-wu/LeetCode/blob/main/BFS/0994.Rotting_Oranges.cpp)  
 :red_circle: [1036. Escape a Large Maze](https://github.com/ge-wu/LeetCode/blob/main/BFS/1036.Escape_a_Large_Maze.cpp)  
+:yellow_circle: [1091. Shortest Path in Binary Matrix](https://github.com/ge-wu/LeetCode/blob/main/BFS/1091.Shortest_Path_in_Binary_Matrix.cpp)  
 :yellow_circle: [1161. Maximum Level Sum of a Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/BFS/1161.Maximum_Level_Sum_of_a_Binary_Tree.cpp)  
 :yellow_circle: [1162. As Far from Land as Possible](https://github.com/ge-wu/LeetCode/blob/main/BFS/1162.As_Far_from_Land_as_Possible.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/BFS/1302.Deepest_Leaves_Sum.cpp)  
