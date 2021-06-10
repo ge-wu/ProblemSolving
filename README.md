@@ -72,6 +72,7 @@
 :yellow_circle: [1834. Single-Threaded CPU](https://github.com/ge-wu/LeetCode/blob/main/Heap/1834.Single-Threaded_CPU.cpp)  
 #### Stack
 :yellow_circle: [71. Simplify Path](https://github.com/ge-wu/LeetCode/blob/main/Stack/0071.Simplify_Path.cpp)  
+:yellow_circle: [316. Remove Duplicate Letters](https://github.com/ge-wu/LeetCode/blob/main/Stack/0316.Remove_Duplicate_Letters.cpp)  
 :yellow_circle: [394. Decode String](https://github.com/ge-wu/LeetCode/blob/main/Stack/0394.Decode_String.cpp)  
 :yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
 #### Hash
@@ -96,6 +97,7 @@
 :red_circle: [1840. Maximum Building Height](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1840.Maximum_Building_Height.cpp)  
 :yellow_circle: [1877. Minimize Maximum Pair Sum in Array](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1877.Minimize_Maximum_Pair_Sum_in_Array.cpp)  
 :yellow_circle: [1881. Maximum Value after Insertion](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1881.Maximum_Value_after_Insertion.cpp)  
+:yellow_circle: [1887. Reduction Operations to Make the Array Elements Equal](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1887.Reduction_Operations_to_Make_the_Array_Elements_Equal.cpp)  
 #### SegmentTree
 :yellow_circle: [307. Range Sum Query - Mutable](https://github.com/ge-wu/LeetCode/blob/main/SegmentTree/0307.Range_Sum_Query-Mutable.cpp)  
 #### DynamicProgramming
@@ -151,6 +153,7 @@
 #### Tree
 :red_circle: [124. Binary Tree Maximum Path Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/0124.Binary_Tree_Maximum_Path_Sum.cpp)  
 :yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
+:yellow_circle: [515. Find Largest Value in Each Tree Row](https://github.com/ge-wu/LeetCode/blob/main/Tree/0515.Find_Largest_Value_in_Each_Tree_Row.cpp)  
 :green_circle: [543. Diameter of Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/0543.Diameter_of_Binary_Tree.cpp)  
 :yellow_circle: [687. Longest Univalue Path](https://github.com/ge-wu/LeetCode/blob/main/Tree/0687.Longest_Univalue_Path.cpp)  
 :yellow_circle: [1038. Binary Search Tree to Greater Sum Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1038.Binary_Search_Tree_to_Greater_Sum_Tree.cpp)  
@@ -193,4 +196,3 @@
 #### Bruteforce
 :yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
-
