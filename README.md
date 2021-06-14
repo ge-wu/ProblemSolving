@@ -9,6 +9,7 @@
 :red_circle: [273. Integer to English Words](https://github.com/ge-wu/LeetCode/blob/main/String/0273.Integer_to_English_Words.cpp)  
 :yellow_circle: [443. String Compression](https://github.com/ge-wu/LeetCode/blob/main/String/0443.String_Compression.cpp)  
 :yellow_circle: [537. Complex Number Multiplication](https://github.com/ge-wu/LeetCode/blob/main/String/0537.Complex_Number_Multiplication.cpp)  
+:yellow_circle: [848. Shifting Letters](https://github.com/ge-wu/LeetCode/blob/main/String/0848.Shifting_Letters.cpp)  
 :yellow_circle: [890. Find and Replace Pattern](https://github.com/ge-wu/LeetCode/blob/main/String/0890.Find_and_Replace_Pattern.cpp)  
 :yellow_circle: [916. Word Subsets](https://github.com/ge-wu/LeetCode/blob/main/String/0916.Word_Subsets.cpp)  
 :yellow_circle: [1410. HTML Entity Parser](https://github.com/ge-wu/LeetCode/blob/main/String/1410.HTML_Entity_Parser.cpp)  
@@ -19,6 +20,7 @@
 :yellow_circle: [211. Design Add and Search Words Data Structure](https://github.com/ge-wu/LeetCode/blob/main/Trie/0211.Design_Add_and_Search_Words_Data_Structure.cpp)  
 :yellow_circle: [421. Maximum XOR of Two Numbers in an Array](https://github.com/ge-wu/LeetCode/blob/main/Trie/0421.Maximum_XOR_of_Two_Numbers_in_an_Array.cpp)  
 :yellow_circle: [677. Map Sum Pairs](https://github.com/ge-wu/LeetCode/blob/main/Trie/0677.Map_Sum_Pairs.cpp)  
+:green_circle: [720. Longest Word in Dictionary](https://github.com/ge-wu/LeetCode/blob/main/Trie/0720.Longest_Word_in_Dictionary.cpp)  
 #### UnionFind
 :yellow_circle: [128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0128.Longest_Consecutive_Sequence.cpp)  
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0130.Surrounded_Regions.cpp)  
@@ -70,6 +72,9 @@
 :yellow_circle: [1818. Minimum Absolute Sum Difference](https://github.com/ge-wu/LeetCode/blob/main/Heap/1818.Minimum_Absolute_Sum_Difference.cpp)  
 :red_circle: [1825. Finding MK Average](https://github.com/ge-wu/LeetCode/blob/main/Heap/1825.Finding_MK_Average.cpp)  
 :yellow_circle: [1834. Single-Threaded CPU](https://github.com/ge-wu/LeetCode/blob/main/Heap/1834.Single-Threaded_CPU.cpp)  
+#### Sort
+:yellow_circle: [973. K Closest Points to Origin](https://github.com/ge-wu/LeetCode/blob/main/Sort/0973.K_Closest_Points_to_Origin.cpp)  
+:yellow_circle: [1471. The k Strongest Values in an Array](https://github.com/ge-wu/LeetCode/blob/main/Sort/1471.The_k_Strongest_Values_in_an_Array.cpp)  
 #### Stack
 :yellow_circle: [71. Simplify Path](https://github.com/ge-wu/LeetCode/blob/main/Stack/0071.Simplify_Path.cpp)  
 :yellow_circle: [316. Remove Duplicate Letters](https://github.com/ge-wu/LeetCode/blob/main/Stack/0316.Remove_Duplicate_Letters.cpp)  
@@ -162,6 +167,7 @@
 :yellow_circle: [1448. Count Good Nodes in Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1448.Count_Good_Nodes_in_Binary_Tree.cpp)  
 #### TwoPointer
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
+:yellow_circle: [713. Subarray Product Less Than K](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0713.Subarray_Product_Less_Than_K.cpp)  
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 :yellow_circle: [1855. Maximum Distance Between a Pair of Values](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1855.Maximum_Distance_Between_a_Pair_of_Values.cpp)  
@@ -196,4 +202,3 @@
 #### Bruteforce
 :yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
-
