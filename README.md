@@ -169,6 +169,7 @@
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
 :yellow_circle: [209. Minimum Size Subarray Sum](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0209.Minimum_Size_Subarray_Sum.cpp)  
 :yellow_circle: [713. Subarray Product Less Than K](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0713.Subarray_Product_Less_Than_K.cpp)  
+:yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1358.Number_of_Substrings_Containing_All_Three_Character.cpp)  
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
 :yellow_circle: [1855. Maximum Distance Between a Pair of Values](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1855.Maximum_Distance_Between_a_Pair_of_Values.cpp)  
