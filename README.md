@@ -41,6 +41,7 @@
 :red_circle: [37. Sudoku Solver](https://github.com/ge-wu/LeetCode/blob/main/DFS/0037.Sudoku_Solver.cpp)  
 :red_circle: [51. N-Queens](https://github.com/ge-wu/LeetCode/blob/main/DFS/0051.N-Queens.cpp)  
 :yellow_circle: [93. Restore IP Addresses](https://github.com/ge-wu/LeetCode/blob/main/DFS/0093.Restore_IP_Addresses.cpp)  
+:yellow_circle: [332. Reconstruct Itinerary](https://github.com/ge-wu/LeetCode/blob/main/DFS/0332.Reconstruct_Itinerary.cpp)  
 :yellow_circle: [417. Pacific Atlantic Water Flow](https://github.com/ge-wu/LeetCode/blob/main/DFS/0417.Pacific_Atlantic_Water_Flow.cpp)  
 :red_circle: [488. Zuma Game](https://github.com/ge-wu/LeetCode/blob/main/DFS/0488.Zuma_Game.cpp)  
 :yellow_circle: [695. Max Area of Island](https://github.com/ge-wu/LeetCode/blob/main/DFS/0695.Max_Area_of_Island.cpp)  
@@ -103,6 +104,8 @@
 :yellow_circle: [1877. Minimize Maximum Pair Sum in Array](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1877.Minimize_Maximum_Pair_Sum_in_Array.cpp)  
 :yellow_circle: [1881. Maximum Value after Insertion](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1881.Maximum_Value_after_Insertion.cpp)  
 :yellow_circle: [1887. Reduction Operations to Make the Array Elements Equal](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1887.Reduction_Operations_to_Make_the_Array_Elements_Equal.cpp)  
+:yellow_circle: [1894. Find the Student that Will Replace the Chalk](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1894.Find_the_Student_that_Will_Replace_the_Chalk.cpp)  
+:yellow_circle: [1899. Merge Triplets to Form Target Triplet](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1899.Merge_Triplets_to_Form_Target_Triplet.cpp)  
 #### SegmentTree
 :yellow_circle: [307. Range Sum Query - Mutable](https://github.com/ge-wu/LeetCode/blob/main/SegmentTree/0307.Range_Sum_Query-Mutable.cpp)  
 #### DynamicProgramming
