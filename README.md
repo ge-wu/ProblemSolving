@@ -167,6 +167,7 @@
 :yellow_circle: [1038. Binary Search Tree to Greater Sum Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1038.Binary_Search_Tree_to_Greater_Sum_Tree.cpp)  
 :yellow_circle: [1302. Deepest Leaves Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/1302.Deepest_Leaves_Sum.cpp)  
 :yellow_circle: [1315. Sum of Nodes with Even-Valued Grandparent](https://github.com/ge-wu/LeetCode/blob/main/Tree/1315.Sum_of_Nodes_with_Even-Valued_Grandparent.cpp)  
+:yellow_circle: [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1379.Find_a_Corresponding_Node_of_a_Binary_Tree_in_a_Clone_of_That_Tree.cpp)  
 :yellow_circle: [1448. Count Good Nodes in Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/1448.Count_Good_Nodes_in_Binary_Tree.cpp)  
 #### TwoPointer
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
@@ -205,5 +206,6 @@
 :yellow_circle: [1765. Map of Highest Peak](https://github.com/ge-wu/LeetCode/blob/main/BFS/1765.Map_of_Highest_Peak.cpp)  
 :yellow_circle: [1871. Jump Game VII](https://github.com/ge-wu/LeetCode/blob/main/BFS/1871.Jump_Game_VII.cpp)  
 #### Bruteforce
+:yellow_circle: [1476. Subrectangle Queries](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1476.Subrectangle_Queries.cpp)  
 :yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
