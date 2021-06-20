@@ -76,6 +76,7 @@
 :yellow_circle: [1834. Single-Threaded CPU](https://github.com/ge-wu/LeetCode/blob/main/Heap/1834.Single-Threaded_CPU.cpp)  
 #### Sort
 :yellow_circle: [973. K Closest Points to Origin](https://github.com/ge-wu/LeetCode/blob/main/Sort/0973.K_Closest_Points_to_Origin.cpp)  
+:yellow_circle: [1029. Two City Scheduling](https://github.com/ge-wu/LeetCode/blob/main/Sort/1029.Two_City_Scheduling.cpp)  
 :yellow_circle: [1471. The k Strongest Values in an Array](https://github.com/ge-wu/LeetCode/blob/main/Sort/1471.The_k_Strongest_Values_in_an_Array.cpp)  
 #### Stack
 :yellow_circle: [71. Simplify Path](https://github.com/ge-wu/LeetCode/blob/main/Stack/0071.Simplify_Path.cpp)  
@@ -146,6 +147,7 @@
 :yellow_circle: [983. Minimum Cost For Tickets](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/0983.Minimum_Cost_For_Tickets.cpp)  
 :yellow_circle: [1027. Longest Arithmetic Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1027.Longest_Arithmetic_Subsequence.cpp)  
 :yellow_circle: [1035. Uncrossed Lines](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1035.Uncrossed_Lines.cpp)  
+:yellow_circle: [1048. Longest String Chain](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1048.Longest_String_Chain.cpp)  
 :yellow_circle: [1105. Filling Bookcase Shelves](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1105.Filling_Bookcase_Shelves.cpp)  
 :yellow_circle: [1143. Longest Common Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1143.Longest_Common_Subsequence.cpp)  
 :yellow_circle: [1186. Maximum Subarray Sum with One Deletion](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1186.Maximum_Subarray_Sum_with_One_Deletion.cpp)  
