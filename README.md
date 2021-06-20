@@ -96,6 +96,7 @@
 #### Greedy
 :red_circle: [135. Candy](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0135.Candy.cpp)  
 :yellow_circle: [179. Largest Number](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0179.Largest_Number.cpp)  
+:yellow_circle: [861. Score After Flipping Matrix](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0861.Score_After_Flipping_Matrix.cpp)  
 :yellow_circle: [870. Advantage Shuffle](https://github.com/ge-wu/LeetCode/blob/main/Greedy/0870.Advantage_Shuffle.cpp)  
 :yellow_circle: [1657. Determine if Two Strings Are Close](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1657.Determine_if_Two_Strings_Are_Close.cpp)  
 :yellow_circle: [1717. Maximum Score From Removing Substrings](https://github.com/ge-wu/LeetCode/blob/main/Greedy/1717.Maximum_Score_From_Removing_Substrings.cpp)  
@@ -158,6 +159,7 @@
 :yellow_circle: [1824. Minimum Sideway Jumps](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1824.Minimum_Sideway_Jumps.cpp)  
 #### LinkedList
 :yellow_circle: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
+:yellow_circle: [1472. Design Browser History](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1472.Design_Browser_History.cpp)  
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
 #### Tree
 :red_circle: [124. Binary Tree Maximum Path Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/0124.Binary_Tree_Maximum_Path_Sum.cpp)  
