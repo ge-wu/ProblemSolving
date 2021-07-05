@@ -22,7 +22,7 @@
 :yellow_circle: [211. Design Add and Search Words Data Structure](https://github.com/ge-wu/LeetCode/blob/main/Trie/0211.Design_Add_and_Search_Words_Data_Structure.cpp)  
 :yellow_circle: [421. Maximum XOR of Two Numbers in an Array](https://github.com/ge-wu/LeetCode/blob/main/Trie/0421.Maximum_XOR_of_Two_Numbers_in_an_Array.cpp)  
 :yellow_circle: [677. Map Sum Pairs](https://github.com/ge-wu/LeetCode/blob/main/Trie/0677.Map_Sum_Pairs.cpp)  
-:green_circle: [720. Longest Word in Dictionary](https://github.com/ge-wu/LeetCode/blob/main/Trie/0720.Longest_Word_in_Dictionary.cpp)  
+:yellow_circle: [720. Longest Word in Dictionary](https://github.com/ge-wu/LeetCode/blob/main/Trie/0720.Longest_Word_in_Dictionary.cpp)  
 #### UnionFind
 :yellow_circle: [128. Longest Consecutive Sequence](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0128.Longest_Consecutive_Sequence.cpp)  
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/UnionFind/0130.Surrounded_Regions.cpp)  
@@ -85,13 +85,17 @@
 :yellow_circle: [316. Remove Duplicate Letters](https://github.com/ge-wu/LeetCode/blob/main/Stack/0316.Remove_Duplicate_Letters.cpp)  
 :yellow_circle: [394. Decode String](https://github.com/ge-wu/LeetCode/blob/main/Stack/0394.Decode_String.cpp)  
 :yellow_circle: [921. Minimum Add to Make Parentheses Valid](https://github.com/ge-wu/LeetCode/blob/main/Stack/0921.Minimum_Add_to_Make_Parentheses_Valid.cpp)  
+:yellow_circle: [1209. Remove All Adjacent Duplicates in String II](https://github.com/ge-wu/LeetCode/blob/main/Stack/1209.Remove_All_Adjacent_Duplicates_in_String_II.cpp)  
+:yellow_circle: [1910. Remove All Occurrences of a Substring](https://github.com/ge-wu/LeetCode/blob/main/Stack/1910.Remove_All_Occurrences_of_a_Substring.cpp)  
 #### Hash
+:yellow_circle: [1282. Group the People Given the Group Size They Belong To](https://github.com/ge-wu/LeetCode/blob/main/Hash/1282.Group_the_People_Given_the_Group_Size_They_Belong_To.cpp)  
 :yellow_circle: [1451. Rearrange Words in a Sentence](https://github.com/ge-wu/LeetCode/blob/main/Hash/1451.Rearrange_Words_in_a_Sentence.cpp)  
 :yellow_circle: [1814. Count Nice Pairs in an Array](https://github.com/ge-wu/LeetCode/blob/main/Hash/1814.Count_Nice_Pairs_in_an_Array.cpp)  
 #### BinarySearch
 :yellow_circle: [34. Find First and Last Position of Element in Sorted Array](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp)  
 :yellow_circle: [287. Find the Duplicate Number](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0287.Find_the_Duplicate_Number.cpp)  
 :yellow_circle: [475. Heaters](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0475.Heaters.cpp)  
+:yellow_circle: [658. Find K Closest Elements](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0658.Find_K_Closest_Elements.cpp)  
 :yellow_circle: [875. Koko Eating Bananas](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0875.Koko_Eating_Bananas.cpp)  
 :yellow_circle: [911. Online Election](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/0911.Online_Election.cpp)  
 :yellow_circle: [1760. Minimum Limit of Balls in a Bag](https://github.com/ge-wu/LeetCode/blob/main/BinarySearch/1760.Minimum_Limit_of_Balls_in_a_Bag.cpp)  
@@ -156,6 +160,7 @@
 :yellow_circle: [1105. Filling Bookcase Shelves](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1105.Filling_Bookcase_Shelves.cpp)  
 :yellow_circle: [1143. Longest Common Subsequence](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1143.Longest_Common_Subsequence.cpp)  
 :yellow_circle: [1186. Maximum Subarray Sum with One Deletion](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1186.Maximum_Subarray_Sum_with_One_Deletion.cpp)  
+:red_circle: [1220. Count Vowels Permutation](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1220.Count_Vowels_Permutation.cpp)  
 :yellow_circle: [1262. Greatest Sum Divisible by Three](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1262.Greatest_Sum_Divisible_by_Three.cpp)  
 :red_circle: [1388. Pizza With 3n Slices](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1388.Pizza_With_3n_Slices.cpp)  
 :yellow_circle: [1419. Minimum Number of Frogs Croaking](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1419.Minimum_Number_of_Frogs_Croaking.cpp)  
@@ -164,12 +169,14 @@
 :yellow_circle: [1641. Count Sorted Vowel Strings](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1641.Count_Sorted_Vowel_Strings.cpp)  
 :yellow_circle: [1770. Maximum Score from Performing Multiplication Operations](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1770.Maximum_Score_from_Performing_Multiplication_Operations.cpp)  
 :yellow_circle: [1824. Minimum Sideway Jumps](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1824.Minimum_Sideway_Jumps.cpp)  
+:yellow_circle: [1911. Maximum Alternating Subsequence Sum](https://github.com/ge-wu/LeetCode/blob/main/DynamicProgramming/1911.Maximum_Alternating_Subsequence_Sum.cpp)  
 #### LinkedList
 :yellow_circle: [24. Swap Nodes in Pairs](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/0024.Swap_Nodes_in_Pairs.cpp)  
 :yellow_circle: [1472. Design Browser History](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1472.Design_Browser_History.cpp)  
 :yellow_circle: [1721. Swapping Nodes in a Linked List](https://github.com/ge-wu/LeetCode/blob/main/LinkedList/1721.Swapping_Nodes_in_a_Linked_List.cpp)  
 #### Tree
 :red_circle: [124. Binary Tree Maximum Path Sum](https://github.com/ge-wu/LeetCode/blob/main/Tree/0124.Binary_Tree_Maximum_Path_Sum.cpp)  
+:yellow_circle: [236. Lowest Common Ancestor of a Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/0236.Lowest_Common_Ancestor_of_a_Binary_Tree.cpp)  
 :yellow_circle: [513. Find Bottom Left Tree Value](https://github.com/ge-wu/LeetCode/blob/main/Tree/0513.Find_Bottom_Left_Tree_Value.cpp)  
 :yellow_circle: [515. Find Largest Value in Each Tree Row](https://github.com/ge-wu/LeetCode/blob/main/Tree/0515.Find_Largest_Value_in_Each_Tree_Row.cpp)  
 :green_circle: [543. Diameter of Binary Tree](https://github.com/ge-wu/LeetCode/blob/main/Tree/0543.Diameter_of_Binary_Tree.cpp)  
@@ -183,6 +190,7 @@
 :yellow_circle: [3. Longest Substring Without Repeating Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0003.Longest_Substring_Without_Repeating_Characters.cpp)  
 :yellow_circle: [209. Minimum Size Subarray Sum](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0209.Minimum_Size_Subarray_Sum.cpp)  
 :yellow_circle: [713. Subarray Product Less Than K](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/0713.Subarray_Product_Less_Than_K.cpp)  
+:yellow_circle: [1004. Max Consecutive Ones III](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1004.Max_Consecutive_Ones_III.cpp)  
 :yellow_circle: [1358. Number of Substrings Containing All Three Characters](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1358.Number_of_Substrings_Containing_All_Three_Character.cpp)  
 :yellow_circle: [1838. Frequency of the Most Frequent Element](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1838.Frequency_of_the_Most_Frequent_Element.cpp)  
 :yellow_circle: [1839. Longest Substring Of All Vowels in Order](https://github.com/ge-wu/LeetCode/blob/main/TwoPointer/1839.Longest_Substring_Of_All_Vowels_in_Order.cpp)  
@@ -196,6 +204,9 @@
 :red_circle: [1808. Maximize Number of Nice Divisors](https://github.com/ge-wu/LeetCode/blob/main/Math/1808.Maximize_Number_of_Nice_Divisors.cpp)  
 :red_circle: [1835. Find XOR Sum of All Pairs Bitwise AND](https://github.com/ge-wu/LeetCode/blob/main/Math/1835.Find_XOR_Sum_of_All_Pairs_Bitwise_AND.cpp)  
 :yellow_circle: [1864. Minimum Number of Swaps to Make the Binary String Alternating](https://github.com/ge-wu/LeetCode/blob/main/Math/1864.Minimum_Number_of_Swaps_to_Make_the_Binary_String_Alternating.cpp)  
+#### BitManipulation
+:yellow_circle: [89. Gray Code](https://github.com/ge-wu/LeetCode/blob/main/BitManipulation/0089.Gray_Code.cpp)  
+:yellow_circle: [1915. Number of Wonderful Substrings](https://github.com/ge-wu/LeetCode/blob/main/BitManipulation/1915.Number_of_Wonderful_Substrings.cpp)  
 #### BFS
 :yellow_circle: [130. Surrounded Regions](https://github.com/ge-wu/LeetCode/blob/main/BFS/0130.Surrounded_Regions.cpp)  
 :yellow_circle: [133. Clone Graph](https://github.com/ge-wu/LeetCode/blob/main/BFS/0133.Clone_Graph.cpp)  
@@ -220,4 +231,4 @@
 :yellow_circle: [1476. Subrectangle Queries](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1476.Subrectangle_Queries.cpp)  
 :yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
-
+:yellow_circle: [1914. Cyclically Rotating a Grid](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1914.Cyclically_Rotating_a_Grid.cpp)  
