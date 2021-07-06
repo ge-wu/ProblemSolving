@@ -232,3 +232,4 @@
 :yellow_circle: [1545. Find Kth Bit in Nth Binary String](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1545.Find_Kth_Bit_in_Nth_Binary_String.cpp)  
 :yellow_circle: [1860. Incremental Memory Leak](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1860.Incremental_Memory_Leak.cpp)  
 :yellow_circle: [1914. Cyclically Rotating a Grid](https://github.com/ge-wu/LeetCode/blob/main/Bruteforce/1914.Cyclically_Rotating_a_Grid.cpp)  
+
